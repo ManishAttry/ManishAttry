@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying for an MBA in Finance and Analytics.<br>I have work experience in research analytics.<br>I'm looking to collaborate on AI, ML, and analytics projects.<br>I'm looking for help integrating AI into business workflows.<br>I'm currently learning Python and SQL.<br>Ask me about: Statistic
+I'm currently studying for an MBA in Finance and Analytics.<br>I have work experience in Research Analytics.<br>I'm looking to collaborate on AI, ML, and analytics projects.<br>I'm looking for help integrating AI into business workflows.<br>I'm currently learning Python and SQL.<br>Ask me about: Statistic
 
 
 ## 🌐 Socials:
